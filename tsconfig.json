@@ -3,7 +3,6 @@
     "lib": ["esnext"],
     "experimentalDecorators": true,
     "noImplicitAny": true,
-    "module": "none",
-    "typeRoots": ["node_modules/@types"]
+    "module": "none"
   }
 }
